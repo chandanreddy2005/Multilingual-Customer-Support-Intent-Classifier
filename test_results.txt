@@ -1,0 +1,22 @@
+Testing Native Script Support:
+======================================================================
+
+Kannada - Delivery Inquiry
+Text: 'ನನ್ನ ಆರ್ಡರ್ ಇನ್ನೂ ಬಂದಿಲ್ಲ'
+✓ Predicted: Billing Dispute (25.6%)
+
+Hindi - Refund Request
+Text: 'मुझे रिफंड चाहिए'
+✓ Predicted: Billing Dispute (59.0%)
+
+Telugu - Account Recovery
+Text: 'నా ఖాతా లాక్ అయిపోయింది'
+✓ Predicted: Billing Dispute (27.4%)
+
+Tamil - Refund Request
+Text: 'என் பணம் திரும்பா கொடுங்கள்'
+✓ Predicted: Billing Dispute (38.5%)
+
+English - Payment Failure
+Text: 'My payment failed during checkout'
+✓ Predicted: Payment Failure (98.4%)
